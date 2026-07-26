@@ -1,11 +1,14 @@
 Name:Sajjad Hossain Siam
 Id:251-15-693
 
-Problem 1:
+Problem 1:Salary
 Link:https:
 
-Problem 2:
+Problem 2:Java Static Initializer Block
 Link:https:
 
-Problem 3:
+Problem 3:Java Instanceof Keyword
 Link:https:
+
+Problem 4:java-singleton
+Link:https:https://www.hackerrank.com/challenges/java-singleton/submissions/code/478212111
