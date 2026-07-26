@@ -1,11 +1,11 @@
 Name:Sajjad Hossain Siam
 Id:251-15-693
 
-Problem 1:
-Link:https:
+Problem 1:Java Inheritance I
+Link:https:https://www.hackerrank.com/challenges/java-inheritance-1/submissions/code/478218204
 
-Problem 2:
-Link:https:
+Problem 2:Java Inheritance II
+Link:https:https://www.hackerrank.com/challenges/java-inheritance-2/submissions/code/478218373
 
-Problem 3:
-Link:https:
+Problem 3:Inheritance
+Link:https:https://www.hackerrank.com/challenges/30-inheritance/submissions/code/478218303
