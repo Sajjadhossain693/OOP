@@ -1,11 +1,11 @@
 Name:Sajjad Hossain Siam
 Id:251-15-693
 
-Problem 1:
+Problem 1:Salary with Bonus
 Link:https:
 
-Problem 2:
-Link:https:
+Problem 2:Salary Increase
+Link:https:https://judge.beecrowd.com/en/runs/code/49544678
 
 Problem 3:
 Link:https:
